@@ -24,6 +24,6 @@ fmid,      Название рынка,               адрес,           го
 Для удаления отзыва нужно выделить строку, нажать кнопку "Удалить" и подтвердить введением пароля что Вы являетесь администратором.<br>
   Пароль администратора 12345.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ID_ролика](https://studio.youtube.com/channel/UCglc_rgqwVDuAVnDJOltpPg/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtu.be/sJwEFV5kQUU" frameborder="0" allowfullscreen></iframe>
 
  
